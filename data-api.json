@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "gambar": "http:\/\/localhost\/latihanapi-server\/img\/_blackpink__logo___png_by_tsukinofleur_db1elsa-pre.png",
+        "judul": "BLACKPINK",
+        "deskripsi": "In Your Area"
+    },
+    {
+        "id": "2",
+        "gambar": "http:\/\/localhost\/latihanapi-server\/img\/screen1.png",
+        "judul": "ABGD",
+        "deskripsi": "Penggunaan Blender untuk membuat lampu 3D"
+    },
+    {
+        "id": "3",
+        "gambar": "http:\/\/localhost\/latihanapi-server\/img\/my-neighbor-totoro-featured.jpg",
+        "judul": "Tottoro",
+        "deskripsi": "My Neighbor Tottoro"
+    }
+]

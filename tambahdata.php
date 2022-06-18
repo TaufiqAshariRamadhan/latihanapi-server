@@ -2,10 +2,10 @@
 
 // membutuhkan pemanggilan akses koneksi (mysql)
 // (DISI)
-
+require 'koneksi.php';
 // menjalankan session
 // (DISI)
- 
+ session_start();
 // check apakah session email sudah ada atau belum.
 // jika belum maka akan diredirect ke halaman index (login)
 if( empty($_SESSION['uname']) ){
